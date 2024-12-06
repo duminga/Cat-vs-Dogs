@@ -1,0 +1,7 @@
+做这个项目时并没有创建虚拟环境，所以不生成requirements.txt了，下面把用到的组件版本标记出来
+numpy                         1.24.3
+matplotlib                    3.7.2
+shuti、random、PIL、tkinter使用python3.8自带的
+torch和torchvison版本使用的是cuda版，pip中不显示所以写了个显示torch和torchvision版本的py文件
+torch                         11.1
+torchvison                 11010
