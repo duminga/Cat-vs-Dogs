@@ -7,7 +7,7 @@ __促进了开源社区的发展:__ 许多参赛者在比赛中分享了自己�
 数据来源说明：
 
 数据来源于Kaggle举办的一个公开竞赛__Dogs vs\. Cats__
+[https://www\.kaggle\.com/competitions/dogs\-vs\-cats/data](https://www.kaggle.com/competitions/dogs-vs-cats/data)
 
-![](https://pic.imgdb.cn/item/67526712d0e0a243d4de7132.png)
 ![](https://pic.imgdb.cn/item/67526712d0e0a243d4de7132.png)
 这里采用kaggle官方Cats VS\. Dogs比赛数据集。该数据集是由 Microsoft Research Asia 发布的猫狗大战数据集。该数据集包括 25000 张猫和狗的图片，其中 12500 张是猫的图片，另外 12500 张是狗的图片。每张图片的大小不一，颜色、角度、光线等也有所不同。
